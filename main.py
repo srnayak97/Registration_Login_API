@@ -1,5 +1,5 @@
 import uvicorn
-from src.app.task1 import app
+from src.app.app import app
 
 
 if __name__ == '__main__':
